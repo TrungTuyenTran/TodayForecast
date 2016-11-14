@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<VariablesViewState
+   version = "1.0">
+   <ContextStates>
+      <ContextState
+         contextName = "-[MapWeatherViewController viewDidLoad]:MapWeatherViewController.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "[CurrentUserLatitude floatValue]">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "__42-[APIEngine GetRequestFromURL:completion:]_block_invoke_274:APIEngine.m">
+      </ContextState>
+      <ContextState
+         contextName = "-[ViewController locationManager:didUpdateToLocation:fromLocation:]:ViewController.m">
+      </ContextState>
+      <ContextState
+         contextName = "__67-[ViewController locationManager:didUpdateToLocation:fromLocation:]_block_invoke_2:ViewController.m">
+      </ContextState>
+      <ContextState
+         contextName = "__67-[ViewController locationManager:didUpdateToLocation:fromLocation:]_block_invoke95:ViewController.m">
+      </ContextState>
+      <ContextState
+         contextName = "-[APIEngine GetRequestFromURL:]:APIEngine.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "_url">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "__35-[APIEngine GetWeatherByLocation::]_block_invoke:APIEngine.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "[result objectForKey:@&quot;current_observation&quot;]">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "-[DetailWeatherViewController SetDataView:]:DetailWeatherViewController.m">
+      </ContextState>
+      <ContextState
+         contextName = "__46-[APIEngine GetWeatherByLocation::completion:]_block_invoke:APIEngine.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "[NSString stringWithFormat:@&quot;http://api.wunderground.com/api/624f213ef29e2b36/conditions/forecast/alert/q/%@,%@.json&quot;,latitude,longitude]">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "__69+[APIEngine getAddressFromLatLon:withLongitude:placemark:completion:]_block_invoke:APIEngine.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "placemark.country">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+   </ContextStates>
+</VariablesViewState>
